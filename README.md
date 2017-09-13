@@ -1,2 +1,2 @@
 # NSPredicateDemo
-ios 学习之 NSPredicate 模糊、精确、查询
+简述：Cocoa框架中的NSPredicate用于查询，原理和用法都类似于SQL中的where，作用相当于数据库的过滤取
